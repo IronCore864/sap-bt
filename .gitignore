@@ -1,0 +1,6 @@
+# saml sp cert
+*.cert
+*.key
+
+# executable
+sap-bt
